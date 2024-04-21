@@ -27,7 +27,7 @@ from openai import OpenAI
 history = {}
 
 client = OpenAI(
-    api_key="sk-yuRYOtKkddeZ3f0JFqoGvvoZrRBZH0Mc",
+    api_key="API_KEY",
     base_url="https://api.proxyapi.ru/openai/v1",
 )
 
